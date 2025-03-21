@@ -25,3 +25,4 @@ arcade.draw_line(0, 0, 100, 100, arcade.color.AERO_BLUE)
 arcade.finish_render()
 #Keep the window open
 arcade.run()
+print("done")
